@@ -6,3 +6,5 @@
 6. none.
 7. Unfinnished (ISTU Theoretical linguistic)
 8. B1
+
+Changes for 3rd commit
