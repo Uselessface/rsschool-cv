@@ -1,0 +1,14 @@
+body{
+    background-color: #e7e7e7;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+}
+.container {
+    margin: 0 auto;
+    width: 1024px;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
